@@ -10,7 +10,7 @@ Implementation of DeepOrder for the paper "DeepOrder: Deep Learning for Test Cas
 Clone the GitHub repository and install the dependencies.
 1. Clone the repo and go to the directory 
 ```
-$ git clone https://github.com/DeepOrder-ICSME/DeepOrder.git
+$ git clone https://github.com/DeepOrder-ICSME21/DeepOrder.git
 $ cd DeepOrder
 
 ```
