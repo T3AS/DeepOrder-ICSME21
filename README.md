@@ -17,7 +17,7 @@ $ cd DeepOrder
 2. Install Anaconda (for creating and activating a separate environment)
 3. Run: 
 ```
-$ conda create -n DeepOrder python=3.6
+$ conda create -n DeepOrder python==3.6
 $ conda activate DeepOrder
 ```
 4. Inside the enviroment, run:
