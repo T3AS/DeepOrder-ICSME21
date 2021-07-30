@@ -1,0 +1,7 @@
+tensorflow==2.1.0
+numpy
+matplotlib
+seaborn
+pandas
+Keras==2.2.4
+SMOGN
