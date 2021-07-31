@@ -26,6 +26,8 @@ $ pip install -r requirements.txt
 ```
 ## Instructions
 
+Download the datasets from [here](https://drive.google.com/drive/folders/14QMWd7ltb9c9NsCTw-WOn9rmJHE5xiwM?usp=sharing).
+
 There are 4 python scripts leading to 4 separate models of DeepOrder on their datasets respectively. 
 
 For running all the scripts together use: 
