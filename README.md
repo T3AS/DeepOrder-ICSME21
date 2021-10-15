@@ -49,7 +49,7 @@ $ python Extra_Visualizations/Comparison_with_RETECS/DeepOrder_Vs_RETECS.py
 
 ## Citing
 ```BibTeX
-@article{sharif2021deeporder,
+@INPROCEEDINGS{sharif2021deeporder,
   author    = {Sharif, Aizaz and Marijan, Dusica and Liaaen, Marius},
   title     = {DeepOrder: Deep Learning for Test Case Prioritization in Continuous Integration Testing},
   journal   = {ICSME},
