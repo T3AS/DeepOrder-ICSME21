@@ -4,6 +4,8 @@
 
 Implementation of DeepOrder for the paper "DeepOrder: Deep Learning for Test Case Prioritization in Continuous Integration Testing".
 
+ * [Project Page](https://aizazsharif.github.io/DeepOrder-site/)
+ * [Paper](https://arxiv.org/abs/2110.07443)
 
 ## Installation
 
